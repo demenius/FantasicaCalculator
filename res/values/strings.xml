@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fantasica Calculator</string>
+    <string name="action_settings">Settings</string>
+	<string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Fantasica Calculator</string>
+    
+    <string name="app_key">J5M90U022mOeSe4O</string>
+    <string name="app_key_2">sPllkxWS472eL53b372ef</string>
+    
+    <string name="main_card">Main Card</string>
+    <string name="feeder_card">Feeder Card</string>
+    <string name="level">Level</string>
+    <string name="arrow">arrow</string>
+    <string name="current_level">Current Level</string>
+    <string name="percent">%</string>
+    <string name="target_level">Target Level</string>
+    <string name="exp_needed">Exp Needed</string>
+    <string name="feeders_needed">Feeders Needed</string>
+    <string name="exp_gain">Exp Given Per Card</string>
+    <string name="total_exp">Total Exp
+        Lvl</string>
+    <string name="balloonza">Balloonza Banner Ad</string>
+    <string name="reset">Reset</string>
+    <string name="use">Use</string>
+    <string name="star_rating">Card Star Rank</string>
+    <string name="blessing_level">Blessing of the Valkyrie</string>
+    <string name="card">Same Card</string>
+    <string name="type">Same Type</string>
+    <string name="bonus">50%% Bonus Exp</string>
+    <string name="card_num">Number of Cards</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="star_prompt">Stars</string>
+    <string name="blessing_prompt">Valkyrie Blessing</string>
+    
+    <string name="episode">Episode</string>
+    <string name="quest">Quest</string>
+    <string name="allies">Allies</string>
+    <string name="quest_exp">Exp Per Run</string>
+    <string name="cooldown">Cooldown</string>
+    <string name="monsters">Monster Count</string>
+    <string name="num_runs">Number Of Runs</string>
+    <string name="time_needed">Time Needed</string>
+    
+    <string-array name="episodes">
+        <item>Episode 1</item>
+        <item>Episode 2</item>
+        <item>Episode 3</item>
+        <item>Episode 4</item>
+        <item>Episode 5</item>
+        <item>Episode 6</item>
+        <item>Episode 7</item>
+        <item>Episode 8</item>
+        <item>Episode 9</item>
+        <item>Episode 10</item>
+        <item>Episode 11</item>
+        <item>Episode 12</item>
+        <item>Episode 13</item>
+        <item>Episode 14</item>
+        <item>Episode 15</item>
+        <item>Episode 16</item>
+        <item>Episode 17</item>
+        <item>Episode 18</item>
+        <item>Episode 19</item>
+        <item>Episode 20</item>
+        <item>Episode 21</item>
+        <item>Episode 22</item>
+        <item>Episode 23</item>
+        <item>Episode 24</item>
+        <item>Episode 25</item>
+        <item>Episode 26</item>
+        <item>Episode 27</item>
+        <item>Episode 28</item>
+        <item>Episode 29</item>
+        <item>Episode 30</item>
+        <item>Episode 31</item>
+        <item>Episode 32</item>
+        <item>Episode 33</item>
+        <item>Episode 34</item>
+        <item>Episode 35</item>
+        <item>Episode 36</item>
+        <item>Episode 37</item>
+        <item>Episode 38</item>
+        <item>Episode 39</item>
+        <item>Episode 40</item>
+        <item>Episode 41</item>
+    </string-array>
+    
+    <string-array name="quests">
+        <item>Quest 1</item>
+        <item>Quest 2</item>
+        <item>Quest 3</item>
+        <item>Quest 4</item>
+        <item>Quest 5</item>
+        <item>Quest 6</item>
+        <item>Quest 7</item>
+        <item>Quest 8</item>
+        <item>Quest 9</item>
+        <item>Quest 10</item>
+    </string-array>
+
+    <string-array name="stars">
+        <item>1 Star</item>
+        <item>2 Star</item>
+        <item>3 Star</item>
+        <item>4 Star</item>
+        <item>5 Star</item>
+        <item>6 Star</item>
+    </string-array>
+    <string-array name="blessings">
+        <item>Level 0</item>
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4</item>
+        <item>Level 5</item>
+        <item>Level 6</item>
+        <item>Level 7</item>
+        <item>Level 8</item>
+        <item>Level 9</item>
+        <item>Level 10</item>
+    </string-array>
+
+</resources>
